@@ -12,7 +12,7 @@
             <h1>Bem-vindo</h1>  
         </div>  
         <div class="footer">  
-            <p>© 2025</p>  
+            <p>© 2026</p>  
         </div>
     </body>
 </html>`
